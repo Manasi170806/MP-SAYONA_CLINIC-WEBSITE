@@ -65,14 +65,14 @@ export default function HeroSlider() {
           <img
             key={i}
             src={src}
-            className="w-full flex-shrink-0 object-cover h-[420px] md:h-[520px]"
+            className="w-full shrink-0 object-cover h-[420px] md:h-[520px]"
           />
         ))}
 
         {/* Duplicate first image at end */}
         <img
           src={slides[0]}
-          className="w-full flex-shrink-0 object-cover h-[420px] md:h-[520px]"
+          className="w-full shrink-0 object-cover h-[420px] md:h-[520px]"
         />
       </div>
 

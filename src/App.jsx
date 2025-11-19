@@ -9,6 +9,7 @@ export default function App() {
       <div className="pt-28">
         <AppRoutes />
       </div>
+      
     </>
   );
 }
