@@ -91,7 +91,7 @@ export default function ContactPage() {
           </aside>
 
           {/* Appointment Form */}
-          <div className="bg-gray-900 rounded-2xl p-6 shadow-lg border border-yellow-400">
+          <div className="bg-gray-900 rounded-2xl p-6 shadow-lg border border-yellow-400 ">
             <h3 className="text-xl font-semibold text-yellow-400">Book a Consultation</h3>
             <p className="text-gray-300 text-sm mt-1">Fill the form and our team will get back to you.</p>
 
@@ -217,13 +217,13 @@ export default function ContactPage() {
       </div>
 
       {/* Footer */}
-      <footer className="mt-12 bg-gray-900 text-gray-300 border-t border-yellow-400 p-6 text-center">
+      {/* <footer className="mt-12 bg-gray-900 text-gray-300 border-t border-yellow-400 p-6 text-center">
         <p className="text-yellow-400 font-semibold">© 2025 Sayona Clinic. All Rights Reserved.</p>
         <p className="text-sm mt-1">Follow us on 
           <a href="#" className="text-yellow-400 hover:underline ml-1">Instagram</a>, 
           <a href="#" className="text-yellow-400 hover:underline ml-1">Facebook</a>
         </p>
-      </footer>
+      </footer> */}
     </div>
   );
 }
