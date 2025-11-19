@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function Services() {
+export default function Technology() {
   return (
     <div>
-      services page
+      technology page   
     </div>
   )
 }
