@@ -38,10 +38,10 @@ export default function WhyChoose() {
         {features.map((f, idx) => (
           <article
             key={idx}
-            className="bg-gradient-to-br from-yellow-500 to-yellow-600 rounded-2xl p-6 shadow-xl hover:shadow-2xl transition duration-300 hover:-translate-y-2"
+            className="bg-linear-to-br from-yellow-500 to-yellow-600 rounded-2xl p-6 shadow-xl hover:shadow-2xl transition duration-300 hover:-translate-y-2"
           >
             <div className="flex items-start gap-4">
-              <div className="flex-shrink-0 w-14 h-14 rounded-full bg-black text-yellow-500 flex items-center justify-center shadow-md ring-4 ring-yellow-300/30">
+              <div className="shrink-0 w-14 h-14 rounded-full bg-black text-yellow-500 flex items-center justify-center shadow-md ring-4 ring-yellow-300/30">
                 {f.icon}
               </div>
 

@@ -48,7 +48,7 @@ export default function ContactPage() {
 
           {/* Unique Contact Info Cards with Opening Hours */}
           <aside className="space-y-6">
-            <div className="bg-gray-900 border-l-4 border-yellow-400 p-6 rounded-xl shadow-lg hover:shadow-yellow-400 transition duration-300">
+            <div className="bg-linear-to-br from-black to-black-600 border-l-4 border-yellow-400 p-6 rounded-xl shadow-lg hover:shadow-yellow-400 transition duration-300">
               <div className="flex items-center gap-4">
                 <span className="text-yellow-400 text-2xl">📍</span>
                 <div>
@@ -58,18 +58,18 @@ export default function ContactPage() {
               </div>
             </div>
 
-            <div className="bg-gray-900 border-l-4 border-yellow-400 p-6 rounded-xl shadow-lg hover:shadow-yellow-400 transition duration-300">
+            <div className="bg-linear-to-br from-black to-black-600 border-l-4 border-yellow-400 p-6 rounded-xl shadow-lg hover:shadow-yellow-400 transition duration-300">
               <div className="flex items-center gap-4">
                 <span className="text-yellow-400 text-2xl">⏰</span>
                 <div>
                   <p className="text-yellow-400 font-semibold">Opening Hours</p>
-                  <p className="text-gray-300 text-sm">Mon - Sat: 9:30 AM - 8:00 PM</p>
+                  <p className="text-gray-300 text-sm">Mon - Sat : 9:30 AM - 1:30 PM <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4:30 PM - 8:00 PM</p>
                   <p className="text-gray-300 text-sm">Sun: Closed</p>
                 </div>
               </div>
             </div>
 
-            <div className="bg-gray-900 border-l-4 border-yellow-400 p-6 rounded-xl shadow-lg hover:shadow-yellow-400 transition duration-300">
+            <div className="bg-linear-to-br from-black to-black-600 border-l-4 border-yellow-400 p-6 rounded-xl shadow-lg hover:shadow-yellow-400 transition duration-300">
               <div className="flex items-center gap-4">
                 <span className="text-yellow-400 text-2xl">📞</span>
                 <div>
@@ -79,7 +79,7 @@ export default function ContactPage() {
               </div>
             </div>
 
-            <div className="bg-gray-900 border-l-4 border-yellow-400 p-6 rounded-xl shadow-lg hover:shadow-yellow-400 transition duration-300">
+            <div className="bg-linear-to-br from-black to-black-600 border-l-4 border-yellow-400 p-6 rounded-xl shadow-lg hover:shadow-yellow-400 transition duration-300">
               <div className="flex items-center gap-4">
                 <span className="text-yellow-400 text-2xl">✉️</span>
                 <div>
@@ -91,7 +91,7 @@ export default function ContactPage() {
           </aside>
 
           {/* Appointment Form */}
-          <div className="bg-gray-900 rounded-2xl p-6 shadow-lg border border-yellow-400 ">
+          <div className="bg-linear-to-br from-black to-black-600 rounded-2xl p-6 shadow-lg border border-yellow-400 ">
             <h3 className="text-xl font-semibold text-yellow-400">Book a Consultation</h3>
             <p className="text-gray-300 text-sm mt-1">Fill the form and our team will get back to you.</p>
 
@@ -141,16 +141,6 @@ export default function ContactPage() {
                   <option>PRP Hair Treatment</option>
                   <option>Scar / Pigmentation</option>
                 </select>
-              </div>
-
-              <div>
-                <label className="block text-sm font-medium">Preferred date (optional)</label>
-                <input
-                  type="date"
-                  value={form.date}
-                  onChange={(e) => setForm({ ...form, date: e.target.value })}
-                  className="mt-1 w-full rounded-lg border p-3 text-sm text-gray-400 focus:outline-none focus:ring-2 focus:ring-yellow-400 border-gray-300"
-                />
               </div>
 
               <div className="md:col-span-2">

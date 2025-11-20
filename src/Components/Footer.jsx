@@ -60,14 +60,13 @@ export default function Footer() {
 
           <div className="flex items-start gap-3">
             <FaMapMarkerAlt className="text-yellow-500 mt-1" />
-            <p>S-12, Vastu Luxuria Business Hub, Near VR Mall, Surat</p>
+            <p>33, Uma Plaza, opp. Prayosha star building, nr. New Police station, Dindoli, Surat, Karadva, Gujarat 394210</p>
           </div>
 
           <div className="flex items-start gap-3 mt-4">
             <FaPhone className="text-yellow-500 mt-1" />
             <p>
-              0261-3515683<br />
-              +91 98254 24867
+              +91 63539 52412
             </p>
           </div>
 
