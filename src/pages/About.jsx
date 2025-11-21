@@ -50,7 +50,7 @@ return ( <section className="max-w-6xl mx-auto px-4 py-12 space-y-12">
 
       {/* Clinic Timings */}
       <p className="text-gray-400 text-sm mt-6">
-        Clinic timings: Mon - Sat • 9:30 AM – 8:00 PM
+       <b> Clinic timings :</b> Mon - Sat : 9:30 AM - 1:30 PM <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4:30 PM - 8:00 PM <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sun : Closed
       </p>
 
       {/* Philosophy Box */}
