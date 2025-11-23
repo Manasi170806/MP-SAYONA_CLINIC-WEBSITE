@@ -63,8 +63,8 @@ export default function ContactPage() {
                 <span className="text-yellow-400 text-2xl">⏰</span>
                 <div>
                   <p className="text-yellow-400 font-semibold">Opening Hours</p>
-                  <p className="text-gray-300 text-sm">Mon - Sat : 9:30 AM - 1:30 PM <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4:30 PM - 8:00 PM</p>
-                  <p className="text-gray-300 text-sm">Sun: Closed</p>
+                  <p className="text-gray-300 text-sm">Mon - Sat : 9:30 AM - 1:00 PM <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4:30 PM - 8:00 PM</p>
+                  <p className="text-gray-300 text-sm">Sun : Closed</p>
                 </div>
               </div>
             </div>

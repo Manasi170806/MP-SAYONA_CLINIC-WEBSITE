@@ -6,7 +6,7 @@ return ( <section className="max-w-6xl mx-auto px-4 py-12 space-y-12">
   {/* ===== Dr. Sneha Patel Box ===== */}
   <div className="bg-[#0e0e0e] rounded-2xl p-8 md:p-12 shadow-xl flex flex-col md:flex-row items-center gap-12 -mt-6">
     {/* Left Photo */}
-    <div className="w-full md:w-1/2 flex justify-center md:justify-start transform transition duration-700 hover:scale-105 -mt-4 ml-10">
+    <div className="w-full md:w-1/2 flex justify-center md:justify-start transform transition duration-700 hover:scale-105 -mt-4 ml-18">
       <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-2xl overflow-hidden shadow-2xl">
         {/* Glow Ring */}
         <div className="absolute inset-0 rounded-2xl  from-yellow-400/30 to-yellow-600/30 blur-xl"></div>
@@ -50,7 +50,7 @@ return ( <section className="max-w-6xl mx-auto px-4 py-12 space-y-12">
 
       {/* Clinic Timings */}
       <p className="text-gray-400 text-sm mt-6">
-       <b> Clinic timings :</b> Mon - Sat : 9:30 AM - 1:30 PM <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4:30 PM - 8:00 PM <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sun : Closed
+       <b> Clinic timings :</b> Mon - Sat : 9:30 AM - 1:00 PM <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4:30 PM - 8:00 PM <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sun : Closed
       </p>
 
       {/* Philosophy Box */}
