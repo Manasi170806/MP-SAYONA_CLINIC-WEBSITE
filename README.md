@@ -102,7 +102,7 @@ Easy to customize
 
 🔗 Connect, Share & Grow
 
-If you like this project—
+**If you like this project—**
 
 ⭐ Star the repo
 
