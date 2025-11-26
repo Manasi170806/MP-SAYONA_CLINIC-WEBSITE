@@ -3,11 +3,6 @@
 https://drive.google.com/file/d/1ZBoJXU_NS2IXflJOQafilnTsCq7-47Jv/view?usp=sharing
 ```
 
-**Live Project**
-``` bash
-
-```
-
 **🌟 Sayona Skin • Hair • Laser Clinic – Full Website (React + Tailwind CSS)**
 
 A modern, fast, and beautifully animated website built for Sayona Clinic, featuring a premium black-and-gold theme 🖤💛.
