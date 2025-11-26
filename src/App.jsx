@@ -1,7 +1,7 @@
 import './App.css'
-import Navbar from "./components/Navbar.jsx";
+import Navbar from "../src/components/Navbar";
 import AppRoutes from "./routes/AppRoutes";
-import Footer from "./components/Footer";
+import Footer from "../src/components/Footer";
 
 export default function App() {
   return (
