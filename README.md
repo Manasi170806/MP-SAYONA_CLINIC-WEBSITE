@@ -1,3 +1,13 @@
+**Output Video** 
+``` bash
+https://drive.google.com/file/d/1ZBoJXU_NS2IXflJOQafilnTsCq7-47Jv/view?usp=sharing
+```
+
+**Live Project**
+``` bash
+
+```
+
 **🌟 Sayona Skin • Hair • Laser Clinic – Full Website (React + Tailwind CSS)**
 
 A modern, fast, and beautifully animated website built for Sayona Clinic, featuring a premium black-and-gold theme 🖤💛.
@@ -113,5 +123,3 @@ Easy to customize
 #react #tailwindcss #clinicwebsite #skincare #laserclinic #reactproject 
 #webdesign #frontend #uiux #webdevelopment #reactdeveloper 
 #animation #framerMotion #healthcarewebsite #beautycare #dermatology
-
-**Output Video** : https://drive.google.com/file/d/1ZBoJXU_NS2IXflJOQafilnTsCq7-47Jv/view?usp=sharing
